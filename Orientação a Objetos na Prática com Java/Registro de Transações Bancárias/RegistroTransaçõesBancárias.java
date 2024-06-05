@@ -3,16 +3,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class RegistroTransacoesBancarias {
-    /**
-     * <h1>Orientação a Objetos na Prática com Java</h1>
-     * Desafio de código 1 / 5  da DIO - Registro de Transações Bancárias
-     * <p>
-     * <b>Note:</b> Desenvolvido na linguagem Java.
-     *
-     * @author  Marcos Ferreira Shirafuchi
-     * @version 1.0
-     * @since   09/05/2024
-     */
+ 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
